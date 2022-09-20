@@ -1,3 +1,5 @@
 def draw_park():
-    print("park not found")
+    print("@@@ Fenway Park")
+    print("@@@ Goose Park")
+    print("@@@ Monmouth Street Park")
     return

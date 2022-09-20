@@ -1,3 +1,6 @@
 def draw_restaurant():
-    print("restaurant not found")
+    print("@@ Restaurant")
+    print("@@@ West Dining Hall")
+    print("@@@ Futago Udon")
+    print("@@@ George Sherman Union")
     return

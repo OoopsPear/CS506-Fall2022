@@ -1,3 +1,6 @@
 def draw_museum():
-    print("museum not found")
+    print("@@ Museum")
+    print("@@@ Boston MFA")
+    print("@@@ Museum of Science")
+    print("@@@ Harvard Art Museums")
     return

@@ -1,3 +1,5 @@
 def draw_hospital():
-    print("hospital not found")
+    print("Mass General")
+    print("Brigham and Womens")
+    print("Boston Medical Center")
     return

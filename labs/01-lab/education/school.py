@@ -1,3 +1,17 @@
 def draw_school():
-    print("school not found")
+    print(" --------")
+    print("| SCHOOL |")
+    print(" --------")    
+    print("- Boston University")
+    print("- Boston College")
+    print("- Berklee College of Music")
+    print("- Brandeis University")
+    print("- Emerson University")
+    print("- Harvard University")
+    print("- Massachusetts Institute of Technology")
+    print("- Northeastern University")
+    print("- Suffolk University")
+    print("- Tufts University")
+    print("- University of Massachusetts Boston")
+    print("- Wentworth Institute of Technology")
     return

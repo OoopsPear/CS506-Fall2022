@@ -1,3 +1,3 @@
 def draw_firestation():
-    print("fire station not found")
-    return
+
+    print("Boston Fire Department")

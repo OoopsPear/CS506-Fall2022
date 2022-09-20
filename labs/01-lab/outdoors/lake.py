@@ -1,3 +1,6 @@
 def draw_lake():
-    print("lake not found")
+    print("@@ Lakes")
+    print("@@@ Brookline Reservoir")
+    print("@@@ Leverett Pond")
+    print("@@@ Back Bay Fens")
     return
